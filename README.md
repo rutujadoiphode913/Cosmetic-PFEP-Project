@@ -1,5 +1,6 @@
 # Cosmetic-PFEP-Project
-
+NAME: Rutuja Anil Doiphode
+This project is an example of PFEP and ERP , how it is used and how the dataset looks in the manufacturing company solely designed by me for education purposes.
 🏭 **Factory Layout & Material Flow Dashboard – README
 📘 Overview**
 
